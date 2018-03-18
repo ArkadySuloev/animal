@@ -1,0 +1,11 @@
+#btn {
+	width: 200px;
+	height: 200px;
+	box-shadow: 0 0 10px black;
+	background-color: purple;
+	margin-left: 40%;
+	margin-top: 300px;
+}
+body {
+	background-color: lightblue;
+}
